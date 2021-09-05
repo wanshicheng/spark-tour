@@ -11,6 +11,8 @@
     <modules>
         <module>spark-core</module>
         <module>spark-sql</module>
+        <module>Spark-Demo</module>
+        <module>spark-mistake</module>
     </modules>
 
     <repositories>
@@ -25,7 +27,7 @@
     </repositories>
 
     <properties>
-        <spark.version>2.4.7</spark.version>
+        <spark.version>2.4.4</spark.version>
         <scala.version>2.11.12</scala.version>
         <scala.binary.version>2.11</scala.binary.version>
     </properties>
